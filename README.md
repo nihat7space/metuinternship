@@ -1,6 +1,6 @@
 # metuinternship
 My C projects for METU Computer Engineering
-# 👋 Hi, I'm Nihat Öksüz  
+# 👋 Hi, I'm Nihat Oksuz  
 
 🎓 **Computer Engineering** student at METU (Middle East Technical University) | 2nd year | GPA: 2.63
 💻 **Skills**: C, Python, Data Structures, Algorithms  
